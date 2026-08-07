@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**2 days logged &middot; 1 weeks &middot; 2-day streak &middot; last activity 2026-08-05**
+**4 days logged &middot; 1 weeks &middot; 4-day streak &middot; last activity 2026-08-07**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 05 Aug 2026, 19:10 | Lesson | Set up your data analyst portfolio | In progress |
+| 07 Aug 2026, 12:44 | Lesson | Set up your data analyst portfolio | In progress |
 
 Full journal: [journal/index.md](journal/index.md)
 
@@ -62,7 +62,7 @@ The goal is not only to complete lessons, but to produce visible evidence of bus
 |-- journal/
 |   |-- index.md
 |   |-- week-01.md ...
-|   `-- earlier.md
+|   `-- pre-cohort-notes.md
 |-- assets/
 |   `-- activity.svg
 |-- notes/

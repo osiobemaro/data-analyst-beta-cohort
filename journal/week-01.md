@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Set up your data analyst portfolio | In progress | 4 | 05 Aug 2026, 19:10 |
+| Set up your data analyst portfolio | In progress | 5 | 07 Aug 2026, 12:44 |
 
 ### Set up your data analyst portfolio
 
@@ -14,7 +14,8 @@
 
 - **Built:** GitHub account created, VS code downloaded and installed.
 - **Built:** Portfolio repo created on GitHub and Git installed.
-- **Built:** I created a repo vs code
+- **Built:** I created a repo vs code.
+- **Built:** I Created evidence folder.
 
 **To explore further**
 
