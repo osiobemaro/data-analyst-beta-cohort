@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Set up your data analyst portfolio | In progress | 5 | 07 Aug 2026, 12:44 |
+| Set up your data analyst portfolio | In progress | 6 | 10 Aug 2026, 17:37 |
 
 ### Set up your data analyst portfolio
 
@@ -16,6 +16,11 @@
 - **Built:** Portfolio repo created on GitHub and Git installed.
 - **Built:** I created a repo vs code.
 - **Built:** I Created evidence folder.
+- **Note:** I Connected Qode Clarity to my repo.
+- **Built:** I Wrote intro on README.
+- **Note:** I Saved a note and push to GITHub.
+- **Why it matters:** Identified the messy-input or failure case for this module.
+- **Note:** I Updated the project README with problem, method, evidence, validation, limitation, and step.
 
 **To explore further**
 
