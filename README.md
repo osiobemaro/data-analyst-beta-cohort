@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**5 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-08-10**
+**5 days logged &middot; 2 weeks &middot; 1-day streak &middot; last activity 2026-08-10**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-08-10 | Daily Concept Clinic | CT 01 · Understanding Data | — |
 | 10 Aug 2026, 17:37 | Lesson | Set up your data analyst portfolio | In progress |
 
 Full journal: [journal/index.md](journal/index.md)
