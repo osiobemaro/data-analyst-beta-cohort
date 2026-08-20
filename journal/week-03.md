@@ -27,3 +27,21 @@ It tells you whether data is flat, nested, or free‑form.
 - **Evidence:** A picture of what datasets breakdown.
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-1-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-1-.png)
 - **What support or practice you need next:** No further support needed
+
+### understanding data
+
+_2026-08-20 · logged 2026-08-20 20:14 UTC_
+
+- **Clinic topic:** understanding data
+- **What was taught:** How to describe and identify data.
+- **What you now understand:** When you “identify” data, you look at all three lenses at once:
+
+Format - What file is it in?
+
+Type - What kinds of values does it contain?
+
+Structure - How is it organised?
+
+This gives you a complete description of any dataset — which is exactly what your clinic entry is asking you to capture today
+- **What is still unclear or your feedback:** Everything is clear.
+- **What support or practice you need next:** More worked examples on this topic
