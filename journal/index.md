@@ -8,4 +8,4 @@ Lessons counts saved lesson notes. Daily Tasks counts separate cohort-tab daily 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Week 3 | – | – | 2 | – | – | – | [open](week-03.md) |
 | Week 2 | – | – | 1 | – | – | – | [open](week-02.md) |
-| Week 1 | 1 | – | – | – | – | – | [open](week-01.md) |
+| Week 1 | 3 | – | – | – | – | – | [open](week-01.md) |
