@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**8 days logged &middot; 3 weeks &middot; 3-day streak &middot; last activity 2026-08-20**
+**9 days logged &middot; 3 weeks &middot; 1-day streak &middot; last activity 2026-08-23**
 
 ## Latest Proof
 
@@ -12,11 +12,13 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 23 Aug 2026, 22:02 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 | 2026-08-20 | Daily Concept Clinic | understanding data | — |
 | 2026-08-19 | Daily Concept Clinic | CT 01 · Understanding Data | A picture of what datasets breakdown.
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-1-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-1-.png) |
+| 18 Aug 2026, 20:06 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete |
 | 2026-08-10 | Daily Concept Clinic | CT 01 · Understanding Data | — |
-| 10 Aug 2026, 17:37 | Lesson | Set up your data analyst portfolio | In progress |
+| 10 Aug 2026, 18:31 | Lesson | Set up your data analyst portfolio | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
