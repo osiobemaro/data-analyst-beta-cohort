@@ -45,3 +45,14 @@ Structure - How is it organised?
 This gives you a complete description of any dataset — which is exactly what your clinic entry is asking you to capture today
 - **What is still unclear or your feedback:** Everything is clear.
 - **What support or practice you need next:** More worked examples on this topic
+
+### CT 02 · Data Quality & Cleaning
+
+_2026-08-24 · logged 2026-08-25 09:44 UTC_
+
+- **Clinic topic:** CT 02 · Data Quality & Cleaning
+- **What was taught:** Data cleaning and quality, the data quality dimensions, why data quality matters,
+- **What you now understand:** I now understand how good data quality is reliable, and usable  and data cleaning is the process of fixing data so it becomes trustworthy for analysis.
+- **What is still unclear or your feedback:** It is all clear.
+- **Evidence:** [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-3-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-3-.png)
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
