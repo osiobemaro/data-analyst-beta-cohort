@@ -14,14 +14,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | --- | --- | --- | --- |
 | 2026-08-25 | Daily Concept Clinic | CT 03 · Understanding Data for Analysis | Examples were placed in the cross-track for review
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-5-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-5-.png) |
+| 26 Aug 2026, 13:09 | Lesson | Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 | 2026-08-24 | Daily Concept Clinic | CT 02 · Data Quality & Cleaning | [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-3-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-3-.png) |
-| 23 Aug 2026, 22:02 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
+| 23 Aug 2026, 22:02 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete |
 | 2026-08-20 | Daily Concept Clinic | understanding data | — |
 | 2026-08-19 | Daily Concept Clinic | CT 01 · Understanding Data | A picture of what datasets breakdown.
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-1-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-1-.png) |
 | 18 Aug 2026, 20:06 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete |
 | 2026-08-10 | Daily Concept Clinic | CT 01 · Understanding Data | — |
-| 10 Aug 2026, 18:31 | Lesson | Set up your data analyst portfolio | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
