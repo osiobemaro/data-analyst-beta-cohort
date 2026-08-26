@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Set up your data analyst portfolio | Complete | 12 | 10 Aug 2026, 18:31 |
 | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 6 | 18 Aug 2026, 20:06 |
-| Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 23 Aug 2026, 22:02 |
+| Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 23 Aug 2026, 22:02 |
+| Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 26 Aug 2026, 13:09 |
 
 ### Set up your data analyst portfolio
 
@@ -36,3 +37,15 @@
 - **Applied:** Used todays skill to improve branch transaction tracker workbook.
 - **Note:** I saved the file I produced.
 - **Note:** The bakery product had the highest sale revenue.
+
+### Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges
+
+**What I did**
+
+- **Verified:** I checked for missing values, duplicates, wrong types and bad dates.
+- **Verified:** I fixed each issue and logged what was changed and why it was changed
+- **Note:** I saved clean version separately from the raw file
+
+**To explore further**
+
+- [x] Research more on README
