@@ -56,3 +56,15 @@ _2026-08-24 · logged 2026-08-25 09:44 UTC_
 - **What is still unclear or your feedback:** It is all clear.
 - **Evidence:** [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-3-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-3-.png)
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
+### CT 03 · Understanding Data for Analysis
+
+_2026-08-25 · logged 2026-08-26 11:36 UTC_
+
+- **Clinic topic:** CT 03 · Understanding Data for Analysis
+- **What was taught:** I was taught how to understand data for proper data analysis.
+- **What you now understand:** i now understand what data is,  I understand what data structure is, I have been exposed to ways of improving data quality and understand a great context behind each data.
+- **What is still unclear or your feedback:** It is clear and straight forward.
+- **Evidence:** Examples were placed in the cross-track for review
+[evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-5-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-5-.png)
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
