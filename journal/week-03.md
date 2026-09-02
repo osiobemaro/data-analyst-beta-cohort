@@ -68,3 +68,14 @@ _2026-08-25 · logged 2026-08-26 11:36 UTC_
 - **Evidence:** Examples were placed in the cross-track for review
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-5-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-5-.png)
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
+### CT 07 · Types of Analysis
+
+_2026-09-02 · logged 2026-09-02 22:13 UTC_
+
+- **Clinic topic:** CT 07 · Types of Analysis
+- **What was taught:** I was taught hoe I can approach data analysis when I am presented with a case study. I was given the various methods or 4 break down to get this sorted. These are the descriptive, diagnoses, predictive and prescriptive analysis.
+- **What you now understand:** I have learnt that descriptive is what happened, diagnostic is why it happened, predictive is what is likely to happen next and prescriptive is all about the best positive solution.
+- **What is still unclear or your feedback:** It is completely clear to a very large extent as the explanation was broken down properly
+- **Evidence:** [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-7-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-7-.png)
+- **What support or practice you need next:** 1:1 review with a mentor
