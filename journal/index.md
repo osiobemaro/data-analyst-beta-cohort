@@ -1,11 +1,11 @@
 # Journal Index
 
-Newest week first. Each week links to its own page.
+**6** reflections and **4** lesson notes across 3 weeks. Newest first.
 
-Lessons counts saved lesson notes. Daily Tasks counts separate cohort-tab daily task notes, so a dash there does not mean the lesson had no tasks.
+| Week | Lessons | Clinic | What it covered |  |
+| --- | --- | --- | --- | --- |
+| Week 3 | – | 5 | CT 07 · Types of Analysis, CT 03 · Understanding Data for Analysis, CT 02 · Data Quality & Cleaning +2 more | [open](week-03.md) |
+| Week 2 | – | 1 | CT 01 · Understanding Data | [open](week-02.md) |
+| Week 1 | 4 | – | Set up your data analyst portfolio, Workbook setup, tables, sorting, filter... | [open](week-01.md) |
 
-| Week | Lessons | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Week 3 | – | – | 5 | – | – | – | [open](week-03.md) |
-| Week 2 | – | – | 1 | – | – | – | [open](week-02.md) |
-| Week 1 | 4 | – | – | – | – | – | [open](week-01.md) |
+_Lessons counts saved lesson notes; the activity columns count cohort-tab entries. A dash means nothing was logged there, not that nothing happened._
