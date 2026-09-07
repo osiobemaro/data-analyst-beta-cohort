@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Set up your data analyst portfolio | Complete | 12 | 10 Aug 2026, 18:31 |
 | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 6 | 18 Aug 2026, 20:06 |
 | Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 23 Aug 2026, 22:02 |
-| Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 26 Aug 2026, 13:09 |
+| Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 26 Aug 2026, 13:09 |
+| Analyze: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 07 Sept 2026, 20:34 |
 
 ### Set up your data analyst portfolio
 
@@ -49,3 +50,12 @@
 **To explore further**
 
 - [x] Research more on README
+
+### Analyze: Workbook setup, tables, sorting, filtering, and named ranges
+
+**What I did**
+
+- **Explained:** I answered a business question.
+- **Note:** I Showed the exact formula, query, or code for each answer
+- **Built:** Wrote each answer in one plain sentence
+- **Built:** Wrote one limitation of your analysis
