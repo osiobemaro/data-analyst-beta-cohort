@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 6 | 18 Aug 2026, 20:06 |
 | Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 23 Aug 2026, 22:02 |
 | Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 26 Aug 2026, 13:09 |
-| Analyze: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 07 Sept 2026, 20:34 |
+| Analyze: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Sept 2026, 20:35 |
+| Visualize: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 0 | 08 Sept 2026, 18:20 |
 
 ### Set up your data analyst portfolio
 
@@ -59,3 +60,13 @@
 - **Note:** I Showed the exact formula, query, or code for each answer
 - **Built:** Wrote each answer in one plain sentence
 - **Built:** Wrote one limitation of your analysis
+
+### Visualize: Workbook setup, tables, sorting, filtering, and named ranges
+
+**What I did**
+
+- **Built:** I Built or improve one chart from this week's work
+- **Built:** I Added a clear title, labelled axes, and remove clutter
+- **Note:** I Picked the chart type that fits the data, not the default
+- **Built:** I Wrote the one sentence this visual should prove in 10 seconds
+- **Note:** I Updated or create the project README with problem, method, evidence, validation, limitation, and next step
