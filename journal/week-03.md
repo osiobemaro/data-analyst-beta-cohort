@@ -112,3 +112,28 @@ I have learnt that descriptive is what happened, diagnostic is why it happened, 
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-7-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-7-.png)
 
 - **Support I need next:** 1:1 review with a mentor
+
+### DQ Math 01 · Data Quality Issues Foundation
+
+_2026-09-08 · logged 2026-09-08 18:18 UTC_
+
+- **Taught:** Data foundation issues can be solved if its broken down to a scope and & dimensions.
+
+**What I now understand**
+
+#	Dimension	The plain-English question	The kind of math it implies
+1	Completeness	Do I have all the values I should have?	A rate: present ÷ expected
+2	Uniqueness	Does each real-world thing appear exactly once, correctly?	A count comparison: distinct entities vs. distinct rows
+3	Validity	Is each value actually a legal value for its field?	A pass rate against a rule: rows passing ÷ total rows
+4	Consistency	Do values agree with each other, within and across systems?	An agreement rate between two things that should match
+5	Accuracy	Is each value close to the true, real-world value?	A comparison against an external source of truth
+6	Timeliness	Is the value current enough, and dated correctly, to be trusted?	A lag: now − timestamp, or a mismatch in recorded vs. actual time
+7	Representativeness	Does this dataset, as a whole, represent the population I think it represents?	A comparison between the sample's makeup and the population's known makeup
+
+- **Still unclear:** The scope needs catching up.
+
+**Evidence**
+
+[evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-8-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-8-.png)
+
+- **Support I need next:** 1:1 review with a mentor
