@@ -1,10 +1,10 @@
 # Journal Index
 
-**6** reflections and **6** lesson notes across 3 weeks. Newest first.
+**7** reflections and **6** lesson notes across 3 weeks. Newest first.
 
 | Week | Lessons | Clinic | What it covered |  |
 | --- | --- | --- | --- | --- |
-| Week 3 | – | 5 | CT 07 · Types of Analysis, CT 03 · Understanding Data for Analysis, CT 02 · Data Quality & Cleaning +2 more | [open](week-03.md) |
+| Week 3 | – | 6 | DQ Math 01 · Data Quality Issues Founda..., CT 07 · Types of Analysis, CT 03 · Understanding Data for Analysis +3 more | [open](week-03.md) |
 | Week 2 | – | 1 | CT 01 · Understanding Data | [open](week-02.md) |
 | Week 1 | 6 | – | Set up your data analyst portfolio, Workbook setup, tables, sorting, filter... | [open](week-01.md) |
 
