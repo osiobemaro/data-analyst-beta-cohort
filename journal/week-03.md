@@ -137,3 +137,29 @@ _2026-09-08 · logged 2026-09-08 18:18 UTC_
 [evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-8-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-8-.png)
 
 - **Support I need next:** 1:1 review with a mentor
+
+### DQ Math 01 · Data Quality Issues Foundation
+
+_2026-09-08 · logged 2026-09-12 18:59 UTC_
+
+- **Taught:** I was introduced to the 7 dimensions and 6 scopes in identifying data quality issues.
+
+**What I now understand**
+
+Every data quality issue you will ever meet resolves by asking one question, in two parts:
+
+What's actually broken here —
+  (a) which of seven dimensions does it break, and
+  (b) at what scope does the break live?
+That's it. There is no third part. A hundred-item catalog exists not because there are a hundred ideas, but because seven dimensions, multiplied across six scopes, generate dozens of named combinations — and each combination gets its own name in the catalog even though it's really just one dimension, showing up at one particular scope.
+
+7 dimensions  x  6 scopes  =  the entire landscape
+Get comfortable asking both halves of the question, in order — dimension first, then scope — and a named issue you've never seen before will almost always slot in within a few seconds, because you're not searching a list, you're just answering two questions you already know how to answer.
+
+- **Still unclear:** It is clear to a very large extent.
+
+**Evidence**
+
+[evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-10-.png](https://github.com/osiobemaro/data-analyst-beta-cohort/blob/main/evidence/cohorts/data-analysis-beta-cohort/week-03/daily-concept-clinic/Screenshot-10-.png)
+
+- **Support I need next:** Redo the take-home practice with a fresh dataset
