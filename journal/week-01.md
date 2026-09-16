@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 6/7 complete
+## Lessons — 7/8 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -12,7 +12,8 @@
 | Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 26 Aug 2026, 13:09 |
 | Analyze: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Sept 2026, 20:35 |
 | Visualize: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 08 Sept 2026, 18:22 |
-| Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 16 Sept 2026, 21:05 |
+| Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 16 Sept 2026, 21:06 |
+| Review: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 16 Sept 2026, 21:08 |
 
 ### Set up your data analyst portfolio
 
@@ -81,3 +82,9 @@
 - **Built:** I Wrote one resume bullet point from this week's work
 - **Note:** I posted a short update on my learning log.
 - **Note:** I Updated or create the project README with problem, method, evidence, validation, limitation, and next step
+
+### Review: Workbook setup, tables, sorting, filtering, and named ranges
+
+**What I did**
+
+- **Note:** I went through the steps as instructed and I can say I am very confident at this point.
