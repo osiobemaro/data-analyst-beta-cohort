@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | Practice: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 23 Aug 2026, 22:02 |
 | Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 26 Aug 2026, 13:09 |
 | Analyze: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 07 Sept 2026, 20:35 |
-| Visualize: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 0 | 08 Sept 2026, 18:20 |
+| Visualize: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 5 | 08 Sept 2026, 18:22 |
+| Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 16 Sept 2026, 21:05 |
 
 ### Set up your data analyst portfolio
 
@@ -69,4 +70,14 @@
 - **Built:** I Added a clear title, labelled axes, and remove clutter
 - **Note:** I Picked the chart type that fits the data, not the default
 - **Built:** I Wrote the one sentence this visual should prove in 10 seconds
+- **Note:** I Updated or create the project README with problem, method, evidence, validation, limitation, and next step
+
+### Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges
+
+**What I did**
+
+- **Built:** I Wrote a short README for Branch transactions tracker workbook
+- **Note:** I took a screenshot as evidence
+- **Built:** I Wrote one resume bullet point from this week's work
+- **Note:** I posted a short update on my learning log.
 - **Note:** I Updated or create the project README with problem, method, evidence, validation, limitation, and next step
